@@ -1,0 +1,19 @@
+### gitmoji
+- :globe_with_meridians: - Add localization as a feature
+- :grey_exclamation: - Add a TODO comment
+- :heavy_plus_sign: - Add dependency
+- :${countryFlag} - Add localization for some content
+- :construction: - Prototype smth
+- :see_no_evil: - Update .gitignore
+- :lipstick: - Style smth
+- :sparkles: - Last commit of a feature
+- :alembic: - Experiment
+- :abacus: - Add/Update design (not restricted by styling)
+- :bricks: - Add a reusable unit of code (Component, function, etc)
+- :scroll: - Add docs
+- :bento: - Add source (icons, pics, etc)
+- :broom: - Do smth not worth recording in git history
+- :label: - Add/Update typings
+- :truck: - Move smth smwhr
+- :memo: - Add content (essay, description, blog post, etc)
+- :bug: - Fix a bug
